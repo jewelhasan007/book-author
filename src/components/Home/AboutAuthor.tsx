@@ -57,7 +57,7 @@ export function AboutAuthor() {
               <div className="pt-8 flex items-center gap-4">
                 <div className="w-16 h-16 rounded-full bg-slate-100 border border-slate-200 p-1">
                   <img
-                    src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100"
+                    src="./emma2.jpg"
                     alt="Signature"
                     className="w-full h-full object-cover rounded-full"
                   />

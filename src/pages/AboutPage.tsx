@@ -28,7 +28,7 @@ export default function AboutPage() {
             >
               <div className="aspect-[3/4] bg-slate-100 overflow-hidden shadow-2xl overflow-hidden group">
                 <img
-                   src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=800"
+                   src="./emma2.jpg"
                    alt="Elena Thorne"
                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />

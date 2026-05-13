@@ -80,7 +80,7 @@ export function Hero() {
           {/* Portrait Image Placeholder/Frame */}
           <div className="relative z-10 aspect-[4/5] bg-neutral-200 rounded-3xl overflow-hidden shadow-2xl translate-y-8 lg:translate-x-12 border-[12px] border-white">
             <img
-              src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=800"
+              src="./emma.jpg"
               alt="Elena Thorne Portrait"
               className="w-full h-full object-cover"
             />
